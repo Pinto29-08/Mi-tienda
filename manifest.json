@@ -1,0 +1,16 @@
+{
+  "name": "Mi Tienda",
+  "short_name": "Mi Tienda",
+  "description": "Ventas, fiados e inventario para tiendas",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F5FA",
+  "theme_color": "#2B3A8C",
+  "lang": "es",
+  "icons": [
+    {"src": "icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

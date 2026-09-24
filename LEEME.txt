@@ -1,0 +1,11 @@
+MI TIENDA - archivos de la app
+
+Suba estos 5 archivos, tal como están, a GitHub Pages (u otro hosting con https):
+  index.html, sw.js, manifest.json, icono-192.png, icono-512.png
+
+Luego abra el enlace en el celular del cliente y use "Agregar a pantalla de inicio".
+Después de abrirla una vez con internet, funciona sin internet.
+Los datos de cada tienda se guardan en SU teléfono. Recuerde enseñarles a hacer respaldo.
+
+Para publicar una actualización: cambie el número en sw.js (mitienda-v1 -> mitienda-v2)
+y vuelva a subir los archivos. Los datos de los clientes no se borran.
